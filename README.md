@@ -28,11 +28,13 @@
 
 - [자바 스터디(정리 및 발표형)](https://github.com/codesquad-study/java) (2021.05.23 - 2021.07-06)
 
-- [인프런]스프링 핵심 원리 기본편 - **Done**
+- [[인프런]스프링 핵심 원리 기본편](https://github.com/codesquad-study/spring-core) - **Done**
   
 - [인프런]스프링 MVC 1편 - **Doing** (2021.07.30 ~)
   
-- [인프런] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 - **Done**
+- [[인프런] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://github.com/codesquad-study/jpa-shop) - **Done**
+  
+- [[인프런] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/codesquad-study/jpa-core) - **Done**
 </details>
 <br>
 <br>
