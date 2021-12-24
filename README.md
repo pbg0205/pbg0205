@@ -1,42 +1,18 @@
-## About Cooper 😃
-- 클린코드에 관심이 많습니다.
-- 꾸준함의 중요성을 누구보다 중요하게 생각합니다.
-- 올바른 기술을 사용하기 위해 꾸준히 학습하고 있습니다. 
+## Cooper 🤨
 
-<br>
-
-## Projects 🧑‍💻
-
-### 1. CodeSquad 과정에서 진행한 프로젝트 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
-
-- [반찬가게 프로젝트](https://github.com/swing-park/sidedish) 🍔 - 반찬가게 프로젝트
-- [issue-tracker](https://github.com/pbg0205/issue-tracker) 🏃 - 깃허브 컨셉의 이슈 트래커 프로젝트
-
-<br>
-
-## Learnigs Repository📕
-
-- [알고리즘 저장소](https://github.com/pbg0205/cooper-algorithm) 🤖 - 알고리즘에 대해 학습하고 저장하는 공간
-
-<br>
-
-## 연도별 정리
-<details>
-  <summary><strong>2021</strong></summary>
+### Skill
   
-- CodeSquad 2021 BE Masters Course - Certificated (2021.01.04 - 2021.06.25)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)
 
-- [자바 스터디(정리 및 발표형)](https://github.com/codesquad-study/java) (2021.05.23 - 2021.07-06)
+### Tools
 
-- [[인프런]스프링 핵심 원리 기본편](https://github.com/codesquad-study/spring-core) - **Done**
-  
-- [인프런]스프링 MVC 1편 - **Doing** (2021.07.30 ~)
-  
-- [[인프런] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://github.com/codesquad-study/jpa-shop) - **Done**
-  
-- [[인프런] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/codesquad-study/jpa-core) - **Done**
-</details>
-<br>
+![Intellij](https://img.shields.io/badge/intellij%20-%23000000.svg?&style=flat&logo=Intellijidea&logoColor=white)
+![github](https://img.shields.io/badge/github%20-%23000000.svg?&style=flat&logo=github&logoColor=white)
+
 <br>
 
 
