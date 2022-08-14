@@ -1,17 +1,23 @@
-## Cooper 🤨
+### Hi~ I'm Cooper 🤨
+
+- I'm Backend Developer using `Java` and `Spring` .
+- I'm interested in `OOP` , `Clean Code` .
+
+<br>
 
 ### Skill
-  
+
+- **Language** - 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
+- **Backend** - 
 ![Spring](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-3394D7?style=flat-square)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+- **DevOps** - 
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)
-
-### Tools
-
+- **Tools** - 
 ![Intellij](https://img.shields.io/badge/intellij%20-%23000000.svg?&style=flat&logo=Intellijidea&logoColor=white)
-![github](https://img.shields.io/badge/github%20-%23000000.svg?&style=flat&logo=github&logoColor=white)
 
 <br>
 
