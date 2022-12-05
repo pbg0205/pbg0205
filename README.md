@@ -28,7 +28,7 @@
 
 - TDD, 클린 코드 with Java 14기 수료
 - [만들면서 배우는 클린 아키텍처](https://github.com/pbg0205/clean-architecture)
-- [스프링 핵심 원리 고급편 ~ing]
+- [사이드 프로젝트: 술술(Soolsul)](https://github.com/soolsul/soolsul-server)
 
 </details>
 
