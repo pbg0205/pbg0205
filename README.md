@@ -8,29 +8,34 @@
 ### Skill
 
 - **Language** - 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=Java&logoColor=white)
 - **Backend** - 
-![Spring](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-3394D7?style=flat-square)
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 - **DevOps** - 
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 - **Tools** - 
 ![Intellij](https://img.shields.io/badge/intellij%20-%23000000.svg?&style=flat&logo=Intellijidea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20-%23000000.svg?&style=flat&logo=GitHub&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack%20-%23000000.svg?&style=flat&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion%20-%23000000.svg?&style=flat&logo=Notion&logoColor=white)
 
 <br>
 
-### Logs
+### Side Projects
 
-<details>
-  <summary><strong>2022</strong></summary>
+- [🍷 술술(Soolsul)](https://github.com/soolsul/soolsul-server)
+- [📜 이슈 트래커(IssueTracker)](https://github.com/pbg0205/issue-tracker)
 
-- TDD, 클린 코드 with Java 14기 수료
-- [만들면서 배우는 클린 아키텍처](https://github.com/pbg0205/clean-architecture)
-- [사이드 프로젝트: 술술(Soolsul)](https://github.com/soolsul/soolsul-server)
 
-</details>
+<br>
+
+### Educations
+- [[NextStep] TDD, 클린 코드 with Java 14기 수료 (2022.04 - 2022.05)](https://edu.nextstep.camp/c/8fWRxNWU)
+- [[Codesquad] Backend masters 2021 수료 (2021.01 - 2021.06)](https://www.codesquad.kr/)
 
 <br>
 
