@@ -25,17 +25,7 @@
 
 <br>
 
-### Side Projects
-
-- [🍷 술술(Soolsul)](https://github.com/soolsul/soolsul-server)
-- [📜 이슈 트래커(IssueTracker)](https://github.com/pbg0205/issue-tracker)
-
-
-<br>
-
-### Educations
-- [[NextStep] TDD, 클린 코드 with Java 14기 수료 (2022.04 - 2022.05)](https://edu.nextstep.camp/c/8fWRxNWU)
-- [[Codesquad] Backend masters 2021 수료 (2021.01 - 2021.06)](https://www.codesquad.kr/)
+### [Cooper Summary 🧑‍💻](https://dune-store-e37.notion.site/cooper-summary-9088c6f492614072a08304ab08e4b635?pvs=4)
 
 <br>
 
