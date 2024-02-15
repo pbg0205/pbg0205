@@ -25,10 +25,6 @@
 
 <br>
 
-### [Cooper Summary 🧑‍💻](https://dune-store-e37.notion.site/cooper-summary-9088c6f492614072a08304ab08e4b635?pvs=4)
-
-<br>
-
 ### Github Stats 🔥
 
 [![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=pbg0205)](https://github.com/anuraghazra/github-readme-stats)
