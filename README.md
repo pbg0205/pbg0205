@@ -1,6 +1,6 @@
 ### Hi~ I'm Cooper 🤨
 
-- I'm Backend Developer using `Java` and `Spring` .
+- I'm Backend Developer
 
 
 ### Skill
